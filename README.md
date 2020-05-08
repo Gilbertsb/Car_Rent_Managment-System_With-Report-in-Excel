@@ -13,4 +13,6 @@ NB
 You can not use Program while Excel file opened, keep this in mind because it will show an Error, so remember to close Excel file
 before you run the program. And verifie the changes after you are done with the program.
 
+Developed by Gilbert Sibomana And Christopher Cofie Kuzagbe
+
 Thanks
